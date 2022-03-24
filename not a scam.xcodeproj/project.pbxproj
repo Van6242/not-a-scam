@@ -13,6 +13,7 @@
 		AE7F1DBC27EA141D00560193 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE7F1DBA27EA141D00560193 /* Main.storyboard */; };
 		AE7F1DBE27EA142000560193 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE7F1DBD27EA142000560193 /* Assets.xcassets */; };
 		AE7F1DC127EA142000560193 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE7F1DBF27EA142000560193 /* LaunchScreen.storyboard */; };
+		AE7F1DCA27EA161A00560193 /* thankspage.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE7F1DC927EA161A00560193 /* thankspage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE7F1DBD27EA142000560193 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE7F1DC027EA142000560193 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE7F1DC227EA142000560193 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AE7F1DC927EA161A00560193 /* thankspage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thankspage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AE7F1DB627EA141D00560193 /* SceneDelegate.swift */,
 				AE7F1DB827EA141D00560193 /* ViewController.swift */,
 				AE7F1DBA27EA141D00560193 /* Main.storyboard */,
+				AE7F1DC927EA161A00560193 /* thankspage.swift */,
 				AE7F1DBD27EA142000560193 /* Assets.xcassets */,
 				AE7F1DBF27EA142000560193 /* LaunchScreen.storyboard */,
 				AE7F1DC227EA142000560193 /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE7F1DB927EA141D00560193 /* ViewController.swift in Sources */,
+				AE7F1DCA27EA161A00560193 /* thankspage.swift in Sources */,
 				AE7F1DB527EA141D00560193 /* AppDelegate.swift in Sources */,
 				AE7F1DB727EA141D00560193 /* SceneDelegate.swift in Sources */,
 			);
